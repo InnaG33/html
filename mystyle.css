@@ -1,0 +1,95 @@
+h1 {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    text-align: left;
+    text-decoration: underline;
+    background-color: rgb(114, 235, 184);
+    color: rgb(70, 67, 67);
+    border: 3px double rgb(255, 255, 255);
+  }
+  
+  h2 {
+    margin-left: 30px;
+    color: #93c5e3;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+    color:rgb(51, 194, 134); 
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  img {
+    margin-left: 30px;
+    margin-right: 100px;
+    width: 220px;
+    height: 220px;
+    display: inline;
+    float: right;
+    box-shadow: 10px 10px 5px #b1b7b8;
+  }
+
+  a {
+    margin-left: 30px;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(35, 129, 12);
+    /* Bold the text. */
+    font-weight: normal;
+  }
+  a:hover {
+    color: yellow;
+  }
+  
+  p {
+    margin-left: 30px;
+    text-align: left;
+    font-size: 20px;
+    /* Bold the text. */
+    font-weight: lighter;
+  }
+
+  section {
+    margin-left: 30px;
+    margin-right: 100px;
+    background-color: rgb(199, 202, 192);
+    text-align: left;
+    font-size: 18px;
+    /* Bold the text. */
+    font-weight: normal;
+  }
+
+  body {
+    padding: 5px;
+    margin: 5px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgb(29, 31, 31);
+    background: #daebe8;
+  }
+  
+  ul {
+    color: rgb(74, 76, 88);
+    font-size: 20px;
+  }
+
+  table {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    border-style: solid;
+    border-color: rgb(247, 248, 169);
+    border-width: thick;
+    color: rgb(216, 83, 22);
+    font-size: 18px;
+    text-align: left;
+  }
+  
